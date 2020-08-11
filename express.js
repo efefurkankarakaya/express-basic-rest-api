@@ -72,5 +72,11 @@ app.get("/edit", (req, res) => {
 
 const server = app.listen(3000, () => {
     console.log("Server has been started.");
+
+    if (fs.existsSync("users.json") == false) {
+        console.log("users.json not found.");
+        fs.writeFileSync("users.json", "{}");
+        console.log("users.json has been created.");
+    }
 })
 
