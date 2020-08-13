@@ -18,8 +18,6 @@ Follow these steps for installation:
 
 ## Queries
 
-<hr>
-
 ### Add 
 ```localhost:3000/add?name=Efe&password=12345&email=test@test.com```
 
