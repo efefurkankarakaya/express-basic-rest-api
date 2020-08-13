@@ -1,12 +1,12 @@
-# Basic REST API with Express.js 
+# REST API with Express.js 
 
 ## Installation
 
 * Click <a href="https://nodejs.org/en/">here (npm)</a> and <a href="https://git-scm.com/">here (git)</a> to get NPM and Git, if you don't have.
 * Open a terminal 
 * Run this code below: <br />
-```git clone https://github.com/efefurkankarakaya/express-basic-rest-api.git```
-* Go inside the directory with ```cd express-basic-rest-api```
+```git clone https://github.com/efefurkankarakaya/express-rest-api.git```
+* Go inside the directory with ```cd express-rest-api```
 * Run ```npm install```
 
 ## Run

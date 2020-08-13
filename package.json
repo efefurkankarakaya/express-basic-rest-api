@@ -1,5 +1,5 @@
 {
-  "name": "express-basic-rest-api",
+  "name": "express-rest-api",
   "version": "1.3.0",
   "description": "",
   "main": "server.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efefurkankarakaya/express-basic-rest-api.git"
+    "url": "git+https://github.com/efefurkankarakaya/express-rest-api.git"
   },
   "author": "Efe Furkan KARAKAYA",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/efefurkankarakaya/express-basic-rest-api/issues"
+    "url": "https://github.com/efefurkankarakaya/express-rest-api/issues"
   },
-  "homepage": "https://github.com/efefurkankarakaya/express-basic-rest-api#readme"
+  "homepage": "https://github.com/efefurkankarakaya/express-rest-api#readme"
 }
