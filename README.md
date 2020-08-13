@@ -16,16 +16,18 @@ Follow these steps for installation:
 * Run ```npm install -g nodemon``` to install nodemon globally on your system. 
 * Then, run ```nodemon server.js``` this will start the server.
 
+## Queries
+
 <hr>
 
-## Add 
+### Add 
 ```localhost:3000/add?name=Efe&password=12345&email=test@test.com```
 
-## Search
+### Search
 ```localhost:3000/users/1```
 
-## Edit
+### Edit
 ```localhost:3000/edit?name=Efe&email=test@testmail.com```
 
-## Delete
+### Delete
 ```localhost:3000/del?id=5```
