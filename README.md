@@ -29,3 +29,7 @@ Follow these steps for installation:
 
 ### Delete
 ```localhost:3000/del?id=5```
+
+## Data
+
+I used <a href="https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top1000.txt">passwords</a> to creating users. Can be used other password, name list too from <a href="https://github.com/danielmiessler/SecLists">SecLists</a>
