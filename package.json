@@ -1,0 +1,23 @@
+{
+  "name": "express-basic-rest-api",
+  "version": "1.3.0",
+  "description": "## Installation",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efefurkankarakaya/express-basic-rest-api.git"
+  },
+  "author": "Efe Furkan KARAKAYA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efefurkankarakaya/express-basic-rest-api/issues"
+  },
+  "homepage": "https://github.com/efefurkankarakaya/express-basic-rest-api#readme"
+}
