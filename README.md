@@ -32,4 +32,4 @@ Follow these steps for installation:
 
 ## Data & Source
 
-<a href="https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top1000.txt">Passwords</a> are used to creating users. You might see weird mails, usernames or passwords. And by the way can be used other password, name lists too from <a href="https://github.com/danielmiessler/SecLists">SecLists</a> to generate random users.
+<a href="https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top1000.txt">Passwords</a> are used to creating users. You might see weird mail addresses, usernames or passwords. And by the way can be used other password, name lists too from <a href="https://github.com/danielmiessler/SecLists">SecLists</a> to generate random users.
