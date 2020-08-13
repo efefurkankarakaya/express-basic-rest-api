@@ -11,7 +11,7 @@
 
 ## Run
 
-The server can be run with ```node server.js``` but especially if you want to develop or change something, I would recommend you run with nodemon. <br /> 
+The server can be run with ```node server.js``` but especially if you want to develop or change something, I would recommend you to run with nodemon. <br /> 
 Follow these steps for installation:
 * Run ```npm install -g nodemon``` to install nodemon globally on your system. 
 * Then, run ```nodemon server.js``` this will start the server.
