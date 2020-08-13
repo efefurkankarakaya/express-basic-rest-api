@@ -1,5 +1,10 @@
 # Basic REST API with Express.js 
 
+## Installation
+
+* ```npm install```
+* ```node express.js``` or ```nodemon express.js```
+
 <hr>
 
 ## Add 

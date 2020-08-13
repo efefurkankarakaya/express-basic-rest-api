@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const fs = require("fs");
-const tools = require("./tools");
 
 app.get("/users/:id", (req, res) => { // localhost:3000/users/4
     fs.readFile("users.json", "utf8", (err, data) => {
