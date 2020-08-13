@@ -9,7 +9,7 @@
 * Go inside the directory with ```cd express-basic-rest-api```
 * Run ```npm install```
 
-# Run
+## Run
 
 The server can be run with ```node server.js``` but especially if you want to develop or change something, I would recommend you run with nodemon. <br /> 
 Follow these steps for installation:
